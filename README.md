@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travisbikkle" alt="travisbikkle" /></a> </p>
 
-- 🔭 I’m currently working on **an indie project**
+- 🔭 I’m currently working on **an indie project** [MagicToy](https://mactoys.eusoftbank.com)
 
-- 🌱 I’m currently learning **how to make indie software and games**
+- 🌱 I’m currently learning **how to run a startup and make games**
 
 - 👯 I’m looking to collaborate on **any project that would help people**
-
-- 🤝 I’m looking for help with **attractting more users to my indie projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
