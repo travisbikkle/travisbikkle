@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travisbikkle" alt="travisbikkle" /></a> </p>
 
-- 🏡 My homepage: https://blog.eusoftbank.com/en/about
+- 🏡 About me: https://blog.eusoftbank.com/en/about
 
 - 🔭 I’m currently working on **an indie project** [MagicToy](https://mactoys.eusoftbank.com)
 
