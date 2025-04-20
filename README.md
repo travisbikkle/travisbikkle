@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">A passionate developer from Earth No.996</h3>
 
-<a href="https://travisbikkle.pages.dev/en/about/">My personal website: About me<a/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=travisbikkle&label=Profile%20views&color=0e75b6&style=flat" alt="travisbikkle" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travisbikkle" alt="travisbikkle" /></a> </p>
 
-- 🏡 About me: https://blog.eusoftbank.com/en/about
+- 🏡 Blog: https://blog.eusoftbank.com/en/
 
 - 🔭 I’m currently working on **an indie project** [MagicToy](https://mactoys.eusoftbank.com)
 
